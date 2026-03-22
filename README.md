@@ -1,9 +1,11 @@
 ## Hi there 👋
 # About Me
 
-I am an AI Cloud & DevOps Engineer with a strong focus on building scalable and secure cloud infrastructure.  
-I have hands-on experience across Multi-Cloud environments (AWS, Azure) and specialize in Infrastructure as Code, automation, and Technical Support
+I am an AI-driven Cloud & DevOps Engineer passionate about building scalable, secure, and automated cloud infrastructure.
 
+I have hands-on experience across multi-cloud environments (AWS and Azure), with a strong focus on Infrastructure as Code (Terraform), automation, and technical support.
+
+I am actively exploring the integration of AI into DevOps (Agentic DevOps), using tools like Claude to enhance automation, generate infrastructure code, and enable intelligent, data-driven operations.
 ---
 
 # 🛠️ Technical Skills
