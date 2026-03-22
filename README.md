@@ -14,16 +14,13 @@ I have hands-on experience across Multi-Cloud environments (AWS, Azure) and spec
 **⚙️ DevOps:** GitHub Actions, CI/CD, NGINX  
 **🤖 AI in DevOps:** Agentic DevOps, AI-assisted automation (Claude)  
 **💻 Systems:** Linux  
-# Current Focus
+#  Current Focus
 
-- Building and deploying scalable cloud infrastructure using AWS and Azure  
+- Building production-grade cloud infrastructure using Terraform  
+- Designing scalable architectures across AWS and Azure  
 - Implementing CI/CD pipelines with GitHub Actions  
-- Containerizing applications using Docker and orchestrating with Kubernetes  
-- Automating infrastructure provisioning using Terraform  
-- Enhancing system security and performance across Linux environments  
-
----
-
+- Containerizing and orchestrating applications using Docker and Kubernetes  
+- 🤖 Integrating AI into DevOps workflows (Agentic DevOps) for automation, code generation, and intelligent decision-making  
 # Featured Project
 
 ## Book Review App (Terraform + Azure)
