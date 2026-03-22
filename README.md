@@ -6,16 +6,14 @@ I have hands-on experience across Multi-Cloud environments (AWS, Azure) and spec
 
 ---
 
-# Technical Skills
+# 🛠️ Technical Skills
 
-**Cloud:** AWS, Azure  
-**Containers:** Docker, Kubernetes  
-**Infrastructure as Code:** Terraform  
-**DevOps:** GitHub Actions, CI/CD, NGINX  
-**Systems:** Linux  
-
----
-
+**☁️ Cloud:** AWS, Azure  
+**📦 Containers:** Docker, Kubernetes  
+**🏗️ Infrastructure as Code:** Terraform  
+**⚙️ DevOps:** GitHub Actions, CI/CD, NGINX  
+**🤖 AI in DevOps:** Agentic DevOps, AI-assisted automation (Claude)  
+**💻 Systems:** Linux  
 # Current Focus
 
 - Building and deploying scalable cloud infrastructure using AWS and Azure  
