@@ -1,60 +1,59 @@
-## Hi there 👋
-# About Me
+# Hi, I'm Ihuoma Nkechi Bridget 👋
 
-I am an AI-driven Cloud & DevOps Engineer passionate about building scalable, secure, and automated cloud infrastructure.
+## About Me
 
-I have hands-on experience across multi-cloud environments (AWS and Azure), with a strong focus on Infrastructure as Code (Terraform), automation, and technical support.
+I am a Cloud & DevOps Engineer with hands-on experience building, deploying and supporting scalable cloud infrastructure across AWS and Azure.
 
-I am actively exploring the integration of AI into DevOps (Agentic DevOps), using tools like Claude to enhance automation, generate infrastructure code, and enable intelligent, data-driven operations.
----
+My technical experience includes Infrastructure as Code, containerization, CI/CD, Kubernetes, cloud automation, monitoring and technical support.
 
-# 🛠️ Technical Skills
+Alongside my engineering journey, I am developing skills in Technical Account Management and Customer Success, with a focus on connecting technical solutions to customer goals, product adoption and measurable business outcomes.
 
-**☁️ Cloud:** AWS, Azure  
-**📦 Containers:** Docker, Kubernetes  
-**🏗️ Infrastructure as Code:** Terraform  
-**⚙️ DevOps:** GitHub Actions, CI/CD, NGINX  
-**🤖 AI in DevOps:** Agentic DevOps, AI-assisted automation (Claude)  
-**💻 Systems:** Linux  
-#  Current Focus
+I am particularly interested in roles where technology, problem-solving and customer success meet.
 
-- Building production-grade cloud infrastructure using Terraform  
-- Designing scalable architectures across AWS and Azure  
-- Implementing CI/CD pipelines with GitHub Actions  
-- Containerizing and orchestrating applications using Docker and Kubernetes  
-- 🤖 Integrating AI into DevOps workflows (Agentic DevOps) for automation, code generation, and intelligent decision-making  
-# Featured Project
+## 🛠️ Technical Skills
 
-## Book Review App (Terraform + Azure)
+- ☁️ **Cloud:** AWS, Microsoft Azure
+- 📦 **Containers:** Docker, Kubernetes
+- 🏗️ **Infrastructure as Code:** Terraform
+- ⚙️ **DevOps:** GitHub Actions, CI/CD, NGINX
+- 🖥️ **Systems:** Linux
+- 📊 **Monitoring:** Prometheus, Grafana
+- 🔄 **GitOps:** Argo CD
+- 🤖 **AI-assisted Engineering:** Claude and Agentic DevOps workflows
 
-- 3-tier architecture (Frontend, Backend, Database)
-- Azure infrastructure provisioned with Terraform
-- Load balancing (Public + Internal)
-- Secure networking using VNet, Subnets, and NSGs
+## 🤝 Technical Account Management & Customer Success
 
----
+Currently developing practical knowledge in:
 
-# GitHub Stats
+- Customer onboarding and journey mapping
+- Technical account management
+- Customer health and product adoption
+- Churn prevention and retention
+- NPS, NRR and GRR
+- Success planning
+- Executive Business Reviews (EBRs)
+- Proactive customer engagement
+- Technical issue coordination and escalation
+- Connecting technical solutions to customer outcomes
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bridgetthnkechi87-cloud&show_icons=true&theme=tokyonight)
+## 🚀 Current Focus
 
----
+- Building reliable cloud infrastructure using Terraform
+- Deploying containerized workloads with Docker and Kubernetes
+- Improving CI/CD and GitOps workflows
+- Contributing to open-source projects
+- Exploring AI-assisted DevOps automation
+- Building stronger customer-facing technical skills
 
+## 💡 What I'm Building Toward
 
+I enjoy working at the intersection of **technology, reliability and customer outcomes**.
 
-- 
+My goal is not only to understand how systems are built and operated, but also how technical solutions create real value for the people and businesses using them.
 
-<!--
-**bridgetthnkechi87-cloud/bridgetthnkechi87-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌐 Connect With Me
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌍 **Portfolio:** https://ihuomankechibridget.online  
+💼 **LinkedIn:** https://www.linkedin.com/in/nkechi-ihuoma-bridget  
+🐙 **GitHub:** https://github.com/bridgetthnkechi87-cloud  
+𝕏 **X:** https://x.com/nkytech
